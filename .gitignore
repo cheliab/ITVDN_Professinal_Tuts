@@ -1,2 +1,6 @@
 ﻿02_SystemCollections/Dictionary/.idea
 02_SystemCollections/Dictionary/Dictionary/obj
+*.idea/
+*bin/
+*obj/
+01_UserColletions/UserCollections/UserCollections
